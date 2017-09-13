@@ -1,0 +1,16 @@
+- name: Daniel Biro
+  role: President
+  img: daniel.jpg
+- name: Angus Shaw
+  role: Meme Manager
+  img: angus.jpg
+- name: Gwion ap Rheinallt
+  role: Treasurer
+  img: gwion.jpg
+- name: Bence Varadi
+  role: Secretary
+  img: bence.jpg
+- name: Laura Masselos
+  role: Vice President
+  img: laura.jpg
+  
